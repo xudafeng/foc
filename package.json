@@ -1,6 +1,6 @@
 {
   "name": "foc",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "flow of control base on generators.",
   "main": "index.js",
   "repository": {
